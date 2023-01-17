@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anna-jonsson
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning JavaScript and web development
+- 🌱 I’m currently learning JavaScript, PHP, C# and web development
 - 💞️ I’m looking to collaborate on new projects and assignments that will help me learn
 - 📫 You can reach me here on GitHub & on anna.f.jonsson@gmail.com
 
